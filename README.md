@@ -1,14 +1,24 @@
 # profile
 I'm a Digital Marketer, Designer, Developer, Content Writer and Mentor!!
+
 ✍ You can find my projects here portfolio
-🔭 I’m currently working on my first book.
-🌱 I’m currently learning React Native and Azure
+
+🔭 I’m currently percieving my master's degree in Data Analytics 
+
+🌱 I’m currently learning python, data science, AI & Machine Learning 
+
 👯 I’m looking to collaborate on open source
+
 💬 Ask me about ... Anything
+
 😄 Pronouns: She/Her
-⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+
+⚡ Fun fact: I can Strategies, Design, Develop, Market & Analyse solely
 Talk with me, I am kinda awesome:
-holisitc_developer | LinkedIn
+
 
 
 Languages and Tools:
+
+
+![code](https://user-images.githubusercontent.com/114620683/201422947-b84945e7-e42a-4af7-8908-0008eaf4f4b6.gif)
